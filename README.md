@@ -15,7 +15,7 @@ Once you are logged in you either upload the script found [here](https://github.
 
 Now you will need to upload your `.blend` file and all needed seperate assets to Google Drive (either via the web gui or desktop application).
 
-Once done open the `runblender.ipynb` in colab and insert your `.blend` files name and path into the specified script fields and run the script.
+Once done open the `colablend.ipynb` in colab and insert your `.blend` files name and path into the specified script fields and run the script.
 
 You will be prompted to authorize that Colab will need access to your Google Drive.
 
