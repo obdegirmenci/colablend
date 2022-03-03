@@ -1,6 +1,6 @@
 # colab_blender
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/donmahallem/colab_blender/blob/master/runblender.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/obdegirmenci/colablend/blob/master/colablend.ipynb)
 
 
 This is a Google Colab Python Notebook which can be used to render blender files with a GPU in the cloud. A google account is required!
@@ -13,7 +13,7 @@ First of all: You will need to own a Google Account!
 
 Once you are logged in you either upload the script found [here](https://github.com/donmahallem/colab_blender/blob/master/runblender.ipynb) to [Google Colab](https://colab.research.google.com/) or just use the `Open in colab` Badge above.
 
-Now you will need to upload your `.blend` file and all needed seperate assets to Google Drive(either via the web gui or desktop application).
+Now you will need to upload your `.blend` file and all needed seperate assets to Google Drive (either via the web gui or desktop application).
 
 Once done open the `runblender.ipynb` in colab and insert your `.blend` files name and path into the specified script fields and run the script.
 
