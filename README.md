@@ -11,7 +11,7 @@ With slight modifications it can also be used with other Python Notebook compute
 
 First of all: You will need to own a Google Account!
 
-Once you are logged in you either upload the script found [here](https://github.com/donmahallem/colab_blender/blob/master/runblender.ipynb) to [Google Colab](https://colab.research.google.com/) or just use the `Open in colab` Badge above.
+Use the `Open in colab` Badge above.
 
 Now you will need to upload your `.blend` file and all needed seperate assets to Google Drive (either via the web gui or desktop application).
 
